@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**vnderlev/vnderlev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to follow me on my social media
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vnderlev)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/vnderlev)
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat&logo=Medium&logoColor=white)](https://medium.com/@vnderlev)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/vnderlev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on internal projects at IBM
+- 🌱 I’m currently learning Neural Networks
+- 👯 I’m looking to collaborate on Rust projects
+- 💬 Ask me about new projects to collaborate
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnderlev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
