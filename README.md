@@ -9,7 +9,6 @@ Feel free to follow me on my social media
 
 - 🔭 I’m currently working on internal projects at IBM
 - 🌱 I’m currently learning Neural Networks
-- 👯 I’m looking to collaborate on Rust projects
 - 💬 Ask me about new projects to collaborate
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnderlev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
