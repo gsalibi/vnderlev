@@ -11,4 +11,4 @@ Feel free to follow me on my social media
 - 🌱 I’m currently learning Neural Networks
 - 💬 Ask me about new projects to collaborate
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnderlev&exclude_repo=ufsc-thesis-template&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vnderlev&exclude_repo=ufsc-thesis-template&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
